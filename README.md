@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Me chamo Helena!
+👀 Tentando ser Fullstack!
+🌱 Atualmente aprendendo Front-End, Back-End, Banco de Dados, Redes e Arquitetura de Computadores.
+📚 Fazendo estágio como Monitor Técnico (HelpDesk).
+🎭 Interesse em artes cênicas.
+
 <!--
 **GalaxyHG/GalaxyHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
