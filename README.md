@@ -1,4 +1,4 @@
-###👋 Me chamo Helena!
+👋 ### Me chamo Helena!
 👀 Tentando ser Fullstack!
 🌱 Atualmente aprendendo Front-End, Back-End, Banco de Dados, Redes e Arquitetura de Computadores.
 📚 Fazendo estágio como Monitor Técnico (HelpDesk).
