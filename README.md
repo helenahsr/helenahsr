@@ -3,6 +3,8 @@
 🌱 Atualmente aprendendo Front-End, Back-End, Banco de Dados, Redes e Arquitetura de Computadores. <br><br>
 📚 Fazendo estágio como Monitor Técnico (HelpDesk). <br><br>
 🎭 Interesse em artes cênicas.
+<br>
+<br>
 
 <!--
 **GalaxyHG/GalaxyHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,17 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div>
-  <a href="https://github.com/GalaxyHG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GalaxyHG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyHG&layout=compact&langs_count=16&theme=netflix"/>
-</div>
+<div>
+  <div>
+    <a href="https://github.com/GalaxyHG">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GalaxyHG&show_icons=true&theme=netflix&include_all_commits=true&count_private=true"/><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyHG&layout=compact&langs_count=16&theme=netflix"/>
+  </div>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="HG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="HG-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HG-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+  <div style="display: inline_block">
+    <img align="center" alt="HG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="HG-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="HG-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </div>
+ </div> 
