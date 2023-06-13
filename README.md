@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyHG&layout=compact&langs_count=16&theme=dark"/>
   </div><br>
 
+    Linguagens em aprendizado:
 
   <div style="display: inline_block">
     <img align="center" alt="HG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,4 +38,6 @@ Here are some ideas to get you started:
     <img align="center" alt="HG-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="HG-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
+    
+    Redes Sociais:
  </div> 
