@@ -36,6 +36,5 @@ Here are some ideas to get you started:
     <img align="center" alt="HG-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="HG-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="HG-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="HG-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vb/vb-original.svg">
   </div>
  </div> 
