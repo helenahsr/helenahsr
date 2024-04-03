@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-    <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows10/windows10-original.svg">
+    <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   </div>
     
 <h4>Redes sociais:</h4>
