@@ -1,11 +1,41 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
-🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
+<h1 data-js="digitando" class="digitando"></h1>
+<!-- 🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
 👀 Tentando ser Fullstack! <br><br>
 🌱 Atualmente cursando bacharelado em Ciência da Computação (2° período). <br><br>
 📚 Fazendo estágio como Monitor Técnico (HelpDesk) há 1 ano e meio. <br><br>
-🎭 Interesse em artes cênicas.
+🎭 Interesse em artes cênicas. -->
+
 <br>
 <br>
+
+<script>]
+const digitando = document.querySelector('[data-js="digitando"]');
+
+        const mensagens = ['Atriz', 'Desenvolvedora Web-Mobile', 'Fullstack', 'Desenvolvedora Front-End', 'Cientista de Dados', 'Analista de Testes'];
+
+        let mensagemIndex = 0;
+        let caractereIndex = 0;
+        let mensagemAtual = '';
+        let caractereAtual = '';
+
+        const type = () => {
+            if (mensagemIndex === mensagens.length) {
+                mensagemIndex = 0;
+            }
+
+            mensagemAtual = mensagens[mensagemIndex];
+            caractereAtual = mensagemAtual.slice(0, caractereIndex++);
+            digitando.textContent = caractereAtual;
+
+            if (caractereAtual.length === mensagemAtual.length) {
+                mensagemIndex++;
+                caractereIndex = 0;
+            }
+        }
+
+        setInterval(type, 150)
+</script>
 
 <!--
 **GalaxyHG/GalaxyHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
