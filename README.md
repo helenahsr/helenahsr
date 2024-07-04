@@ -1,11 +1,9 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=420EF7&random=false&width=435&lines=%F0%9F%92%BB+Técnica+em+Informática;%F0%9F%8C%8E+Desenvolvedora;%F0%9F%A4%A9+Gamer)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=420EF7&random=false&width=435&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%8C%8E+I+live+in+Rio+De+Janeiro%2C+Brazil;%F0%9F%A4%A9+I+love+anime+and+manga;%F0%9F%A7%A9+I+love+coding!!!)](https://git.io/typing-svg)
-<!-- 🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
+🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
 👀 Tentando ser Fullstack! <br><br>
 🌱 Atualmente cursando bacharelado em Ciência da Computação (2° período). <br><br>
 📚 Fazendo estágio como Monitor Técnico (HelpDesk) há 1 ano e meio. <br><br>
-🎭 Interesse em artes cênicas. -->
+🎭 Interesse em artes cênicas.
 
 <br>
 <br>
