@@ -1,6 +1,5 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
 🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
-👀 Tentando ser Fullstack! <br><br>
 🌱 Atualmente cursando bacharelado em Ciência da Computação (2° período). <br><br>
 📚 Fazendo estágio como Monitor Técnico (HelpDesk) há 1 ano e meio. <br><br>
 🎭 Interesse em artes cênicas.
