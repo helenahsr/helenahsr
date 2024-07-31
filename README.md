@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <!-- <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galaxyhg&theme=solarized_dark)" /> -->
 
 
-"
   </div>
   
   <h4>Já utilizados:</h4>
