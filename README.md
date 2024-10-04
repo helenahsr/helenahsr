@@ -1,33 +1,14 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
-🖥 Concluinte do Ensino Médio com Curso Técnico em Informática. <br><br>
-🌱 Atualmente cursando bacharelado em Ciência da Computação (2° período). <br><br>
-📚 Fazendo estágio como Monitor Técnico (HelpDesk) há 1 ano e meio. <br><br>
-🎭 Interesse em artes cênicas.
+🖥 Técnica em Informática. <br><br>
+🌱 Cursando bacharelado em Ciência da Computação (3° período). <br><br>
+📚 Fazendo estágio como Monitor Técnico há 2 anos. <br><br>
 
 <br>
 <br>
-
-<!--
-**GalaxyHG/GalaxyHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
  <div>
-    <a href="https://github.com/GalaxyHG">
-<!--      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    <a href="https://github.com/helenahsr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/>
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={helenahsr}&theme={tokyonight} /> -->
-<!-- <img height="180em" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helenahsr&theme=solarized_dark)" /> -->
 
 
   </div>
@@ -55,16 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/HelenaGamer2" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
   <a href="https://www.instagram.com/helenahsr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helena-rezende-234446266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
-  </div>
-
-  <h4>Atualmente aprofundando em: </h4>
-  <div style="display: inline_block">
-    <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   </div>
  
  
