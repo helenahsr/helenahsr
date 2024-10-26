@@ -8,6 +8,7 @@
 <div>
     <a href="https://github.com/helenahsr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=gruvbox&locale=pt-BR" alt="helenahsr"/>
 </div>
   
   <h4>Já utilizados:</h4>
@@ -26,12 +27,12 @@
     <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   </div>
+
+  
     
 <h4>Redes sociais:</h4>
  
   <div style="display: inline_block">
-  <a href="https://www.youtube.com/HelenaGamer2" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/helenahsr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helena-rezende-234446266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
   </div>
  
