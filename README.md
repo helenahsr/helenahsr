@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=gruvbox&locale=pt-BR" alt="helenahsr"/>
 </div>
   
-  <h4>Já utilizados:</h4>
+  <h4>Linguagens e ferramentas:</h4>
   
   <div style="display: inline_block">
     <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
