@@ -7,7 +7,7 @@
 
 <div>
     <a href="https://github.com/helenahsr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/><br/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/><br/> -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=gruvbox&locale=pt-BR" alt="helenahsr"/>
 </div>
   
