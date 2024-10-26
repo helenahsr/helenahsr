@@ -3,8 +3,6 @@
 🌱 Cursando bacharelado em Ciência da Computação (3° período). <br><br>
 📚 Fazendo estágio como Monitor Técnico há 2 anos. <br><br>
 
-<br>
-
 <div>
     <a href="https://github.com/helenahsr">
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/><br/> -->
