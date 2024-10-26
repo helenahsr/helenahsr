@@ -1,7 +1,6 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
 🖥 Técnica em Informática. <br><br>
 🌱 Cursando bacharelado em Ciência da Computação (3° período). <br><br>
-📚 Fazendo estágio como Monitor Técnico há 2 anos. <br><br>
 
 <div>
     <a href="https://github.com/helenahsr">
@@ -25,11 +24,7 @@
     <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="Win8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   </div>
-
   
-    
-<h4>Redes sociais:</h4>
- 
   <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/helena-rezende-234446266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
   </div>
