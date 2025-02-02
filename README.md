@@ -1,6 +1,6 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
 🖥 Técnica em Informática. <br><br>
-🌱 Cursando bacharelado em Ciência da Computação (3° período). <br><br>
+🌱 Cursando bacharelado em Ciência da Computação (4° período). <br><br>
 
 <div>
     <a href="https://github.com/helenahsr">
