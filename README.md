@@ -1,6 +1,5 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
-🖥 Técnica em Informática. <br><br>
-🌱 Cursando bacharelado em Ciência da Computação (4° período). <br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=16&letterSpacing=medium&pause=1000&color=531DBC&background=33FF3400&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;T%C3%A9cnica+em+Inform%C3%A1tica.;Desenvolvedora+de+Software" alt="Typing SVG" /></a>
 
 <div>
     <a href="https://github.com/helenahsr">
