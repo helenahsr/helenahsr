@@ -27,7 +27,8 @@
   <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/helena-rezende-234446266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"target="_blank"</a> 
   </div>
-  <picture>
+      
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helenahsr/helenahsr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helenahsr/helenahsr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helenahsr/helenahsr/output/pacman-contribution-graph.svg">
