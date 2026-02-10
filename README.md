@@ -1,11 +1,11 @@
 <h2>👋 Olá, meu nome é Helena!</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=16&letterSpacing=medium&pause=1000&color=9B163A&background=33FF3400&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;T%C3%A9cnica+em+Inform%C3%A1tica;Desenvolvedora+de+Software" alt="Typing SVG" /></a>
-
+<!--
 <div>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/><br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=gruvbox&locale=pt-BR" alt="helenahsr"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenahsr&layout=compact&langs_count=16&theme=dark"/><br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenahsr&show_icons=true&theme=gruvbox&locale=pt-BR" alt="helenahsr"/>
 </div>
-  
+-->
   <h4 style="color: #FCBF06">Linguagens e ferramentas:</h4>
   
   <div style="display: inline_block">
